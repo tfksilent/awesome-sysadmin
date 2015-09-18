@@ -19,6 +19,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [LDAP](#ldap)
   * [Log Management](#log-management)
   * [Monitoring](#monitoring)
+  * [Multimedia](#multimedia)
   * [Metric & Metric Collection](#metric--metric-collection)
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
@@ -269,7 +270,9 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
-
+## Multimedia
+*Multimedia.software*
+* [Red5](http://tecadmin.net/installing-red5-media-server-on-centos-6/) - streaming media.
 ## Metric & Metric Collection
 *Metric gathering and display software.*
 
